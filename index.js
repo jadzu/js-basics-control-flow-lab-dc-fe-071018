@@ -24,4 +24,4 @@ function ternaryCheckCity(destination) {
   : 'No go.';
 }
 
-ternaryCheckCity ("NYC")
+ternaryCheckCity("NYC");
