@@ -30,13 +30,15 @@ ternaryCheckCity("NYC");
 function switchOnCharmFromTip(tip) {
 
   switch(tip) {
-    case n:
-        code block
+    case "generous":
+        return "Thank you so much"
         break;
-    case n:
-        code block
+    case "not as generous":
+        return "Thank you."
         break;
     default:
-        code block
+        return "Bye."
       }
 }
+
+switchOnCharmFromTip("generous")
