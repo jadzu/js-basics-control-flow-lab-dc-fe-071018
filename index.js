@@ -24,3 +24,19 @@ function ternaryCheckCity(city) {
 }
 
 ternaryCheckCity("NYC");
+
+
+
+function(switchOnCharmFromTip) {
+
+  switch(expression) {
+    case n:
+        code block
+        break;
+    case n:
+        code block
+        break;
+    default:
+        code block
+}
+}
